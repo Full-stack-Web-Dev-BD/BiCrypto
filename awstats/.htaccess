@@ -1,0 +1,4 @@
+AuthName "cryptose.in statistics"
+AuthType Basic
+AuthUserFile /home/cryptose/.awstats-htpasswd
+require valid-user
